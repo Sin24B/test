@@ -13,4 +13,4 @@ def deleni_nulou():
 deleni_nulou()
 """
 dalsi kod
-"""
+"""  
